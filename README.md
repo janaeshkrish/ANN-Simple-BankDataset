@@ -13,7 +13,7 @@ In this project i have used a sample bank dataset which consist of 10,000 rows a
 1) Input layer
 2) Dense layer neurons (6), activation 'relu'
 3) Dense layer neurons (6), activation 'relu'
-4) Dense lalyer neurons (1), activation 'sigmoid'
+4) Dense lalyer neurons (1), activation 'sigmoid' --> output layer
 
 
 ## Usage
